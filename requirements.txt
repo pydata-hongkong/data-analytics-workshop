@@ -2,3 +2,5 @@ pandas>=1.3
 jupyterlab>=3.0
 scipy
 scikit-learn
+matplotlib
+seaborn
